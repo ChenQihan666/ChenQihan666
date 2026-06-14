@@ -10,15 +10,13 @@
 
 ### GitHub Stats
 
-<!-- 注意：以下两个卡片需要你自托管 github-readme-stats 项目才能正常显示。-->
-<!-- 自托管后，将 src 中的域名替换为你自己的 Vercel 域名，并保留 theme=auto 参数即可自动适配明暗主题。-->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChenQihan666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=auto" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenQihan666&layout=compact&langs_count=8&theme=auto" />
+  <img height="180em" src="https://github-readme-stats-three-sage-17.vercel.app/api?username=ChenQihan666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=ChenQihan666&layout=compact&langs_count=8&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChenQihan666&theme=auto" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChenQihan666&theme=radical" alt="streak stats" />
 </p>
 
 ---
@@ -63,10 +61,3 @@
   <img src="https://count.getloli.com/@ChenQihan666" alt="Visitor Count" />
   <p>Keep coding, keep curious</p>
 </div>
-使用提示：
-
-请按照之前的自托管指南，将两个 github-readme-stats.vercel.app 链接替换为你自己部署的域名。
-
-其他卡片（Metrics、活动图、格言、访客数）均已配置明暗主题自动切换，无需额外操作。
-
-
