@@ -17,8 +17,8 @@
 ### Tools
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/c0fddf1fb696d6f6880e20dce5b7598893eca83e53388de266a3fab6ee2a2f1d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d2532303f7374796c653d666c61742d737175617265266c6f676f3d646f74656e76266c6f676f436f6c6f723d776869746526636f6c6f723d707572706c65" />
-  <img src="https://camo.githubusercontent.com/5ffada490655a15c000a924edbc87840cbaa2080d4d31135da5cee2e88c1ce26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d2532303f7374796c653d666c61742d737175617265266c6f676f3d7673636f6469756d266c6f676f436f6c6f723d776869746526636f6c6f723d626c7565" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/WebStorm-00C8FF?style=for-the-badge&logo=webstorm&logoColor=white" />
 </p>
