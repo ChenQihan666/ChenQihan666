@@ -11,12 +11,53 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-three-sage-17.vercel.app/api?username=ChenQihan666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=ChenQihan666&layout=compact&langs_count=8&theme=radical" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-three-sage-17.vercel.app/api?username=ChenQihan666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats-three-sage-17.vercel.app/api?username=ChenQihan666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://github-readme-stats-three-sage-17.vercel.app/api?username=ChenQihan666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default" 
+      height="180em" 
+      alt="GitHub Stats"
+    />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=ChenQihan666&layout=compact&langs_count=8&theme=radical" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=ChenQihan666&layout=compact&langs_count=8&theme=default" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=ChenQihan666&layout=compact&langs_count=8&theme=default" 
+      height="180em" 
+      alt="Top Langs"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChenQihan666&theme=radical" alt="streak stats" />
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=ChenQihan666&theme=radical" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=ChenQihan666&theme=default" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ChenQihan666&theme=default" 
+      alt="streak stats" 
+    />
+  </picture>
 </p>
 
 ---
@@ -61,4 +102,3 @@
   <img src="https://count.getloli.com/@ChenQihan666" alt="Visitor Count" />
   <p>Keep coding, keep curious</p>
 </div>
-
