@@ -64,9 +64,9 @@
 
 <p align="center">
   <picture>
-    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenQihan666&theme=github_dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenQihan666&theme=default" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenQihan666&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenQihan666&theme=github_dark" alt="metrics" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenQihan666&theme=default" alt="metrics" />
   </picture>
 </p>
 
@@ -74,9 +74,9 @@
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=ChenQihan666&theme=dark&bg_color=0d1117&hide_border=true&area=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=ChenQihan666&theme=light&bg_color=ffffff&hide_border=true&area=true" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=ChenQihan666&theme=light&bg_color=ffffff&hide_border=true&area=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChenQihan666&theme=dark&bg_color=0d1117&hide_border=true&area=true" width="90%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChenQihan666&theme=light&bg_color=ffffff&hide_border=true&area=true" width="90%" />
   </picture>
 </p>
 
@@ -94,4 +94,5 @@
   <img src="https://count.getloli.com/@ChenQihan666" alt="Visitor Count" />
   <p>Keep coding, keep curious</p>
 </div>
+本回答由 AI 生成，内容仅供参考，请仔细甄别。
 
