@@ -1,12 +1,16 @@
 <h1 align="center">Talk is cheap. Show me the code</h1>
 
-<h2 align="center">Hello, I'm ChenQihan666 (QihanNX)</h2>
+<h2 align="center">Hello, I'm Chen Qihan (ChenQihan666)</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+explorer;Open+source+enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu%2022.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian%2012-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+</p>
 
 ### GitHub Stats
 
@@ -45,8 +49,6 @@
   </picture>
 </p>
 
----
-
 ### GitHub Metrics
 
 <p align="center">
@@ -56,8 +58,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenQihan666&theme=github_dark" alt="metrics" />
   </picture>
 </p>
-
----
 
 ### Recent Activity Graph
 
@@ -69,8 +69,6 @@
   </picture>
 </p>
 
----
-
 ### Random Dev Quote
 
 <p align="center">
@@ -80,8 +78,6 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
   </picture>
 </p>
-
----
 
 <div align="center">
   <img src="https://count.getloli.com/@ChenQihan666" alt="Visitor Count" />
