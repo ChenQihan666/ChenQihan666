@@ -1,6 +1,6 @@
 <h1 align="center">Talk is cheap. Show me the code</h1>
 
-<h2 align="center">Hello, I'm Chen Qihan (ChenQihan666)</h2>
+<h2 align="center">Hello, I'm ChenQihan666 (QihanNX)</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+explorer;Open+source+enthusiast;Always+learning+new+things" alt="Typing SVG" />
