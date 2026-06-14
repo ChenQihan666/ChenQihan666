@@ -24,12 +24,24 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-three-sage-17.vercel.app/api?username=ChenQihan666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=ChenQihan666&layout=compact&langs_count=8&theme=radical" />
+  <picture>
+    <source srcset="https://github-readme-stats-three-sage-17.vercel.app/api?username=ChenQihan666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-three-sage-17.vercel.app/api?username=ChenQihan666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default" media="(prefers-color-scheme: light)" />
+    <img height="180em" src="https://github-readme-stats-three-sage-17.vercel.app/api?username=ChenQihan666&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=ChenQihan666&layout=compact&langs_count=8&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=ChenQihan666&layout=compact&langs_count=8&theme=default" media="(prefers-color-scheme: light)" />
+    <img height="180em" src="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=ChenQihan666&layout=compact&langs_count=8&theme=radical" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChenQihan666&theme=radical" alt="streak stats" />
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=ChenQihan666&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=ChenQihan666&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChenQihan666&theme=radical" alt="streak stats" />
+  </picture>
 </p>
 
 ---
@@ -37,12 +49,24 @@
 ### GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenQihan666&theme=radical" alt="metrics" />
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenQihan666&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenQihan666&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChenQihan666&theme=radical" alt="metrics" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChenQihan666&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChenQihan666&theme=radical" />
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChenQihan666&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChenQihan666&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChenQihan666&theme=radical" />
+  </picture>
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChenQihan666&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChenQihan666&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChenQihan666&theme=radical" />
+  </picture>
 </p>
 
 ---
@@ -50,7 +74,11 @@
 ### Recent Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChenQihan666&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="90%" />
+  <picture>
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=ChenQihan666&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=ChenQihan666&theme=light&bg_color=ffffff&hide_border=true&area=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChenQihan666&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="90%" />
+  </picture>
 </p>
 
 ---
@@ -58,7 +86,11 @@
 ### Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <picture>
+    <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" media="(prefers-color-scheme: light)" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  </picture>
 </p>
 
 ---
